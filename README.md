@@ -1,5 +1,7 @@
 # Get Berks 3.x, testkitchen, rbenv, ruby, and vagrant working
 
+If your OS is compatible with anything on the list for [chefdk](http://www.getchef.com/downloads/chef-dk/) then completely ignore this and proceed as normal.
+
 Recently some of our team members had to spend multiple days getting their ruby and chef development environments up and running. We do have some loose documentation around this process but generally it's always been people diving in head first. If you don't have a ruby background it's a decent amount of overhead to fully comprehend and debug the package manager. It's also silly since you probably already have a decent amount of research and learning to start getting chef running as is.
 
 ### Get homebrew installed
